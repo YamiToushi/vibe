@@ -88,3 +88,5 @@ Imperfections are expected — and intentional — as part of the experiment.
 Builder of autonomous AI systems
 
 
+---
+https://github.com/florinpop17/app-ideas projects from
