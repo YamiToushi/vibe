@@ -1,0 +1,1 @@
+# Empty init file to make bin2dec a proper Python package
