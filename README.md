@@ -88,6 +88,3 @@ Imperfections are expected — and intentional — as part of the experiment.
 Builder of autonomous AI systems
 
 
-* turn this into **elite GitHub README (badges, stats, visuals)**
-* add **architecture diagrams**
-* or make it look like a **top-tier open-source project (FAANG-level style)**
